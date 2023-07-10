@@ -1,0 +1,17 @@
+----------
+issue: MAY20
+copied: NA
+modified `NA` from:
+to:
+reason: there was no May 2020 issue and diamond elected to issue a multi-month cof in Jun 2020
+----------
+issue: JUN20
+copied: JUN20.txt to JUN20_txt
+modified `identification text lines` from:
+PREVIEWS MAY/JUNE 2020
+ISSUE #380/381 (VOL. 30 #5/6)
+to:
+PREVIEWS JUNE 2020
+ISSUE 381 (VOL. 30 #6)
+reason: there was no May 2020 issue and diamond elected to issue a multi-month cof in Jun 2020
+----------
